@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm a professional Full Stack JavaScript Engineer with great experience in the area.
-✅ I build websites and services with different levels of complexity.
-✅ I create applications architecture.
-✅ The kings of apps I develop: SPA, SSR, PWA, API servers, etc.
+I'm a professional Full Stack JavaScript Engineer with great experience in the area.\
+✅ I build websites and services with different levels of complexity.\
+✅ I create applications architecture.\
+✅ The kings of apps I develop: SPA, SSR, PWA, API servers, etc.\
 
-❌ I don't create UI/UX design.
-❌ I don't work on CMS.
+❌ I don't create UI/UX design.\
+❌ I don't work on CMS.\
 
 📫 Use the contacts below to get in touch. I'll be glad to consult you.
 
