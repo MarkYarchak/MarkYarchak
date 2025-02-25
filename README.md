@@ -2,14 +2,16 @@
 
 I'm a professional Full Stack JavaScript Engineer with great experience in the area.
 
-✅ I build websites and services with different levels of complexity.\
-✅ I create applications architecture.\
-✅ The kings of apps I develop: SPA, SSR, PWA, API servers, etc.
+Tech stack: JavaScript • TypeScript • Vue • Nuxt.js • Node.js • Express • MongoDB • Docker • AWS • Nginx • Bash
 
-❌ I don't create UI/UX design.\
+✅ I build websites and services with different levels of complexity.\
+✅ I develop from apps scratch to deployment with robust architecture.\
+✅ The kings of apps I create: SPA, SSR, PWA, API servers, etc.\
+✅ I provide DevSecOps and SEO.
+
 ❌ I don't work on CMS.
 
-📫 Use the contacts below to get in touch. I'll be glad to consult you.
+📫 Contact me on https://markyarchak.com. I will be glad to consult you!
 
 <!--
 **MarkYarchak/MarkYarchak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
