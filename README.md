@@ -11,7 +11,8 @@ Tech stack: JavaScript • TypeScript • Vue • Nuxt.js • Node.js • Expres
 
 ❌ I don't work on CMS.
 
-📫 Contact me on https://markyarchak.com. I will be glad to consult you!
+📫 Contact me on <a href="https://markyarchak.com?utm_source=github&utm_medium=social&utm_campaign=profile" target="blank">markyarchak.com</a>.
+I will be glad to consult you!
 
 <!--
 **MarkYarchak/MarkYarchak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
