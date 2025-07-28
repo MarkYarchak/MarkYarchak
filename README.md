@@ -7,9 +7,8 @@ Tech stack: JavaScript • TypeScript • Vue • Nuxt.js • Node.js • Expres
 ✅ I build websites and services with different levels of complexity.\
 ✅ I develop from apps scratch to deployment with robust architecture.\
 ✅ The kings of apps I create: SPA, SSR, PWA, API servers, etc.\
+✅ Work with AI integrations like OpenAI, LangChain, and can suggest a business solution.\
 ✅ I provide DevSecOps and SEO.
-
-❌ I don't work on CMS.
 
 📫 Contact me on <a href="https://markyarchak.com?utm_source=github&utm_medium=social&utm_campaign=profile" target="blank">markyarchak.com</a>.
 I will be glad to consult you!
